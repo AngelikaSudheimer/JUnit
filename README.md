@@ -37,6 +37,12 @@ Die obige Tabelle zeigt eine Zusammenfassung von Assertions. Weitere Assertions 
 2. Erstelle für eine bessere Übersicht einen Testordner
 3. Erstelle eine Klasse mit Methoden
 4. Drücke alt + enter auf dem Klassennamen um auf die Option "Create Test" zu kommen
+![createUnitTest][]
+![configureUnitTest][]
 5. Konfiguriere die Testmethode (JUnit Version, Name der Testklasse, Ordner, Methoden)
 6. Tests schreiben
 7. Tests testen
+
+
+[createUnitTest]: https://github.com/AngelikaSudheimer/JUnit/blob/master/Documentation/createUnitTestIntelliJ.png "create JUnit Test"
+[configureUnitTest]: https://github.com/AngelikaSudheimer/JUnit/blob/master/Documentation/configureUnitTestIntelliJ.png "configure JUnit Test"
