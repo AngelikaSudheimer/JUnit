@@ -38,8 +38,8 @@ Die obige Tabelle zeigt eine Zusammenfassung von Assertions. Weitere Assertions 
 3. Erstelle eine Klasse mit Methoden
 4. Drücke alt + enter auf dem Klassennamen um auf die Option "Create Test" zu kommen
 ![createUnitTest][]
-![configureUnitTest][]
 5. Konfiguriere die Testmethode (JUnit Version, Name der Testklasse, Ordner, Methoden)
+![configureUnitTest][]
 6. Tests schreiben
 7. Tests testen
 
