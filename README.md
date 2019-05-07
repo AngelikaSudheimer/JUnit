@@ -2,7 +2,7 @@
 
 Das ist das Repository für mein ePortfolio über JUnit Testing.
 
-To work with JUnit5 you will have to install it in your Java IDE if it's not already present.
+Um mit JUnit5 zu arbeiten wird lediglich eine aktuelle Java IDE benötigt.
 
 ## 1. JUnit
 JUnit ist ein Open-Source Testframework zum Erstellen und Durchführen von Unittests für Javaprogramme. 
